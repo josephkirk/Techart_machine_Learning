@@ -42,3 +42,8 @@ Notable machine learning project and link that relevant to cg industry
 -----
 ### Practical machine learning for Technical artist
 #### https://3deeplearner.com/
+
+-----
+### The Mathematical Functions Grimoire
+> an open source library of formulas for mathematical functions. Fungrim currently consists of 242 symbols (named mathematical objects), 617 entries (formulas or tables), and 32 topics (listings of entries)
+### https://fungrim.org/
