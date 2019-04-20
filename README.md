@@ -1,4 +1,4 @@
-# Techart_machine_Learning
+# Tech artist machine learning notes
 Notable machine learning project and link that relevant to cg industry
 
 ### 3D Machine Learning paper and depot collections
